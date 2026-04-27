@@ -1,4 +1,4 @@
-> **Dynamic Framework: Supervised Learning**  
+**Dynamic Framework: Supervised Learning**  
 > A fully automated MLP pipeline — upload any CSV dataset, let the system find the best neural network configuration, then predict on new inputs interactively.
 
 ---
